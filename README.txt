@@ -1,5 +1,7 @@
 # Against-Exchange-Pop3-Hacking
 
+# This script has not been fully tested, it's a POP3 version of https://github.com/LarrysGIT/Against-AD-password-hacking (which is tested)
+
 Read first,
 You can adjust thresholds in the script, too strict values could cause wrong blocking impact normal use.
 If you want remove some IP from block, you can remove the rule from windows firewall, or, add the ip address to FW_WhiteList.txt as |supper format temporaily, see FW_WhiteList.txt for more.
